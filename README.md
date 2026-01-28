@@ -6,7 +6,7 @@
 ### Коллекция публичных VPN-конфигураций (VLESS, Reality, Shadowsocks, Trojan)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-blue?logo=telegram)](https://t.me/ТВОЙ_НИК_ТГ)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-blue?logo=telegram)](https://t.me/inostranii)
 ![License](https://img.shields.io/badge/License-AGPL--3.0-orange)
 
 </div>
@@ -35,7 +35,7 @@
 
 ## 📢 Мой Telegram-канал
 Все новости и новые конфиги выкладываю здесь:
-👉 [ПОДПИСАТЬСЯ](https://t.me/ТВОЙ_НИК_ТГ)
+👉 [ПОДПИСАТЬСЯ](https://t.me/inostranii)
 
 ---
 *Конфигурации проверяются на доступность в РФ. Рекомендуется обновлять подписку раз в 24 часа.*
